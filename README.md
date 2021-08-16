@@ -1,2 +1,2 @@
-# lizonkisel.github.io
+# Pairs
 Pairs game
